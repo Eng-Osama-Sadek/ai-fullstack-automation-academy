@@ -1,0 +1,10 @@
+﻿streamlit
+fastapi[standard]
+uvicorn
+google-genai
+pydantic
+tenacity
+reportlab
+python-docx
+arabic-reshaper
+python-bidi
