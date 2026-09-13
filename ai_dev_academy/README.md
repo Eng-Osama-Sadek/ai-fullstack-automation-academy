@@ -30,14 +30,14 @@
 
 - **AI Core:** Google Gemini AI API (Advanced Prompt Engineering & Structured JSON Output).
 - **Backend & Logic:** Python 3.11+, FastAPI, Pydantic v2, Asyncio, Tenacity.
-- **Frontend & UI:** Streamlit (Custom Dark Blue & Cyan/Yellow Developer Theme with CSS Overrides).
+- **Frontend & UI:** Streamlit (Custom Dark Blue Developer Theme with CSS Overrides).
 - **Document Processing:** `ReportLab`, `Python-Docx`, `Arabic-Reshaper`, `PyBidi`.
 
 ---
 
 ## 🚀 طريقة التشغيل (Getting Started)
 
-### 1. استنساخ المستودع (Clone Repository)
+### 1️⃣ استنساخ المستودع (Clone Repository)
 ```bash
 git clone [https://github.com/Eng-Osama-Sadek/ai-fullstack-automation-academy.git](https://github.com/Eng-Osama-Sadek/ai-fullstack-automation-academy.git)
 cd ai-fullstack-automation-academy
